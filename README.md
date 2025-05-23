@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hi, I'm Ashlyn 👋
 
-<!--
-**AshlynJanuary-230577644/AshlynJanuary-230577644** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my diploma in Application development, currently in my last year at CPUT
+- 🌱 I’m currently learning JAVA, SQL, Project managing, data analytics with Power BI
+- 👯 I’m currently looking for an internship for 6 months as part of my completion of my diploma
+- 🤔 I’m looking for help with sharpening my Power BI skills 
+- 💬 Ask me about anything I will answer as best as I can 
+- 📫 How to reach me: 230577644@mycput.ac.za (This email is only valid till the end of 2025)
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love photography 
+<h2>Project that I am working on currently</h2>
+-[DreamMotors]
