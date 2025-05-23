@@ -9,4 +9,6 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love photography 
 <h2>Project that I am working on currently</h2>
--[DreamMotors]
+-DreamMotors(https://github.com/AshlynJanuary-230577644/DreamMotors.git)
+The project above is currently private due to it being incomplete it will be accessable to the public once completed, here is a brief discription of the project:
+It is going to be an e-commerce website that will deal with model cars ranging from sizes small and meduim, taking special requests from customers for any custom car builds they want
